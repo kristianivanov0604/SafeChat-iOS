@@ -1,0 +1,30 @@
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "6IK-pu-Vov"; */
+"6IK-pu-Vov.normalTitle" = "登录";
+
+/* Class = "UIButton"; normalTitle = "Create your account"; ObjectID = "9UJ-Ci-aSS"; */
+"9UJ-Ci-aSS.normalTitle" = "创建帐户";
+
+/* Class = "UITextField"; placeholder = "Safechats#"; ObjectID = "KOs-6t-f6K"; */
+"KOs-6t-f6K.placeholder" = "电邮";
+
+/* Class = "UIButton"; normalTitle = "Need Help? Contact Us"; ObjectID = "MZ9-TH-Jc8"; */
+"MZ9-TH-Jc8.normalTitle" = "需要帮忙? 联系我们";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UYz-Jh-g3J"; */
+"UYz-Jh-g3J.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Save Password"; ObjectID = "cjO-Qa-MDH"; */
+"cjO-Qa-MDH.text" = "保存密码";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "gC0-ux-hWm"; */
+"gC0-ux-hWm.placeholder" = "密码";
+
+/* Class = "UILabel"; text = "incorrect password"; ObjectID = "oOa-LJ-17G"; */
+"oOa-LJ-17G.text" = "密码错误";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pGO-s3-oB4"; */
+"pGO-s3-oB4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "incorrect safechat#"; ObjectID = "u3v-8n-eYI"; */
+"u3v-8n-eYI.text" = "电邮错误";
+

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="SafeChats/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body/>
+  </file>
+  <file original="SafeChats/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="6IK-pu-Vov.normalTitle">
+        <source>Log In</source>
+        <note>Class = "UIButton"; normalTitle = "Log In"; ObjectID = "6IK-pu-Vov";</note>
+      </trans-unit>
+      <trans-unit id="9UJ-Ci-aSS.normalTitle">
+        <source>Create your account</source>
+        <note>Class = "UIButton"; normalTitle = "Create your account"; ObjectID = "9UJ-Ci-aSS";</note>
+      </trans-unit>
+      <trans-unit id="KOs-6t-f6K.placeholder">
+        <source>Safechats#</source>
+        <note>Class = "UITextField"; placeholder = "Safechats#"; ObjectID = "KOs-6t-f6K";</note>
+      </trans-unit>
+      <trans-unit id="MZ9-TH-Jc8.normalTitle">
+        <source>Need Help? Contact Us</source>
+        <note>Class = "UIButton"; normalTitle = "Need Help? Contact Us"; ObjectID = "MZ9-TH-Jc8";</note>
+      </trans-unit>
+      <trans-unit id="UYz-Jh-g3J.normalTitle">
+        <source>Button</source>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "UYz-Jh-g3J";</note>
+      </trans-unit>
+      <trans-unit id="cjO-Qa-MDH.text">
+        <source>Save Password</source>
+        <note>Class = "UILabel"; text = "Save Password"; ObjectID = "cjO-Qa-MDH";</note>
+      </trans-unit>
+      <trans-unit id="gC0-ux-hWm.placeholder">
+        <source>Password</source>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "gC0-ux-hWm";</note>
+      </trans-unit>
+      <trans-unit id="oOa-LJ-17G.text">
+        <source>incorrect password</source>
+        <note>Class = "UILabel"; text = "incorrect password"; ObjectID = "oOa-LJ-17G";</note>
+      </trans-unit>
+      <trans-unit id="pGO-s3-oB4.normalTitle">
+        <source>Button</source>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "pGO-s3-oB4";</note>
+      </trans-unit>
+      <trans-unit id="u3v-8n-eYI.text">
+        <source>incorrect safechat#</source>
+        <note>Class = "UILabel"; text = "incorrect safechat#"; ObjectID = "u3v-8n-eYI";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="SafeChats/Info.plist" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

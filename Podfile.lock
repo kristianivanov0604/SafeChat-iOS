@@ -1,0 +1,20 @@
+PODS:
+  - CocoaLumberjack (2.0.1):
+    - CocoaLumberjack/Default (= 2.0.1)
+    - CocoaLumberjack/Extensions (= 2.0.1)
+  - CocoaLumberjack/Core (2.0.1)
+  - CocoaLumberjack/Default (2.0.1):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (2.0.1):
+    - CocoaLumberjack/Default
+  - RESideMenu (4.0.7)
+
+DEPENDENCIES:
+  - CocoaLumberjack
+  - RESideMenu
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 019d1361244274a6138c788c6cb80baabc13fb8f
+  RESideMenu: f24c508404b49c667344c54aba7e590883533958
+
+COCOAPODS: 0.38.2
